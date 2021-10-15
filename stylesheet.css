@@ -1,6 +1,4 @@
-*{
- box-sizing:border-box;
-}
+
 
 
 body{
@@ -163,14 +161,3 @@ input,textarea{
 clip-path:circle(22px at 32px 24px);
 }
 
-@media(max-width: 1000px){
-    body{
-        width:50%
-    }
-}
-
-@media(max-width: 670px){
-    body{
-        width:100%;
-    }
-}
