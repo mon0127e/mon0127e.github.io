@@ -123,11 +123,13 @@ img{
 }
 
 .flex .image{
-    width: 1000px;
+    width: 200px;
     margin: 0;
     padding: 0;
     overflow: hidden;
     position: relative;
+    border-radius: 50%;
+    height:300px;
 }
 
 .flex .right{
